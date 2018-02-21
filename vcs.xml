@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/Luttos/Android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/askrj/Projeto1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\W64\Charles\Android" />
+    <option name="cloneParentDir" value="C:\W64\Charles\AdnroidTeste" />
   </component>
 </application>
